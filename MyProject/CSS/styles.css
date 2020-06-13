@@ -1,0 +1,39 @@
+
+html body{
+  background-color: #e3e3e3;
+}
+
+
+#testimonials{
+  text-align: center;
+  margin-top: 80px;
+}
+
+
+
+.topnavbar{
+  padding: 10px 10%;
+  background-color: #F16552;
+}
+
+.logo{
+  width: 12rem;
+}
+
+.menu-selection{
+  padding: 10px 230px;
+  background-color: white;
+}
+
+.testimonial-image{
+  width: 90%;
+  height: 50rem;
+  margin: 20px;
+}
+
+.carousel-indicators li{
+}
+
+.carousel-indicators .active{
+    background-color: #F16552;
+}
