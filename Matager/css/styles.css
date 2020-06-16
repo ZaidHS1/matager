@@ -16,7 +16,7 @@
     height: 10rem;
     margin: 20px;
   }
-  
+
   #testimonials{
     padding-top: 60px;
   }
@@ -29,6 +29,11 @@
   left: 0;
   right: 0;
   z-index: 1030
+}
+
+.empty{
+  height: 55px;
+  background-color: #DC3444;
 }
 
 @media (min-width:768px) {
