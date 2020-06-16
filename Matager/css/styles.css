@@ -27,11 +27,6 @@
   z-index: 1030
 }
 
-.empty{
-  height: 55px;
-  background-color: #DC3444;
-}
-
 @media (min-width:768px) {
   .navbar.fixed-right {
     bottom: 0;
