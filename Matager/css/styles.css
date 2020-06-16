@@ -12,10 +12,13 @@
   }
 
   .testimonial-image{
-    margin-top: 60px;
     width: 90%;
     height: 10rem;
     margin: 20px;
+  }
+  
+  #testimonials{
+    padding-top: 60px;
   }
 
 }
